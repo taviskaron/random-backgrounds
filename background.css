@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: dodgerblue;
+    font-family: sans-serif;
+}
+section {
+    background: #fafafa;
+    width: 600px;
+    height: 100vh;
+    margin: 50px auto;
+    padding: 50px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
